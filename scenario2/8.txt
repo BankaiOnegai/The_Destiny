@@ -1,0 +1,3 @@
+Vous souhaitez empruntez le métro pour rentrez chez vous, vous êtes devant la station Pierre et Marie Curie sur la ligne 7
+La station est fermé OU La station est ouverte
+

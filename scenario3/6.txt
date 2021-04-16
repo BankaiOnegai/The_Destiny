@@ -1,0 +1,14 @@
+
+
+
+
+
+
+                        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+			⬛ Vous acceptez.                                       ⬛
+                        ⬛                                                      ⬛
+                        ⬛ Rudy vous donne rdv à gare du nord quai numéro 10.   ⬛
+                        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+                        ⬛							⬛
+			⬛ Vous refusez (G)        ou      Vous acceptez (D)    ⬛
+                        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛

@@ -1,0 +1,53 @@
+8
+Vous souhaitez empruntez le métro pour rentrez chez vous, vous êtes devant la station Pierre et Marie Curie sur la ligne 7
+La station est fermé OU La station est ouverte
+
+4
+La station est donc fermé, vous cherchez une autre solution pour pouvoir rentrer chez vous
+Je retourne à l'école OU Je commande un taxi
+
+2
+Vous êtes de retour à l'école mais le portail est fermé
+Vous attendez que le portail s'ouvre OU Vous sonnez a l'interphone
+
+6
+Vous souhaitez commander un taxi, mais aucun taxi n'est disponible
+Vous attendez un autre taxi OU Vous empruntez un velo
+
+1
+Après 30 minutes, personne répond, vous êtes donc seul dehors et vous avez aucune solution. Ceci est un échec, veuillez recommencez l'algorithme
+ 
+3
+Vous sonnez a l'interphone, l'accueil répond et vous refuse l'entrée car il est tard, vous êtes donc sans solution, veuillez recommencez l'algoritme
+
+5
+Vous commander a nouveau un taxi, mais les taxis sont toujours indisponibles, vous êtes donc sans solution pour rentrer chez vous, veuiller recommencez l'algorithme
+
+7
+Vous souhaitez empruntez un vélo, mais aucun vélo n'est disponible a la station la plus proche, vous êtes donc bloqué, veuillez recommencer l'algorithme
+
+12
+La station est ouverte, vous vous rendez aux bornes de passage
+Vous avez egaré votre pass navigo OU vous avez votre pass navigo
+
+10
+Vous avez egaré votre pass navigo et vous decidez de vous rendre au guichet avant d'en refaire un nouveau
+Le guichet est fermé OU Le guichet est ouvert
+
+9
+Le guichet est malheureusement fermé, mais il ouvre dans 15 minutes, et vous pourrez passez la borne de passage pour rentrez chez vous
+
+11
+Le guichet est donc ouvert, vous demandez a refaire votre pass navigo mais cela vous coûtera quand meme 23€ mais en fin de compte, vous pourrez rentrer chez vous 
+
+14
+Vous avez votre pass navigo mais l'abonnement est-il toujours valable
+L'abonnement est terminé OU L'abonnement est encore à jour
+
+13
+Vous devez juste passer a la machine pour recharger votre pass et vous pourrez passer  rentrez chez vous, mais il faut faire attention a bien mettre à jour la prochaine fois
+
+15
+Vous êtes à jour, vous pouvez donc passez, bon trajet !
+
+

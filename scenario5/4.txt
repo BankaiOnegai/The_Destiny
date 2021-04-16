@@ -1,0 +1,14 @@
+
+
+
+
+
+
+		                   ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+		                   ⬛  Vous acceptez. Quelle classe !                                ⬛
+		                   ⬛                                                                ⬛
+		                   ⬛ Rudy vous communique la date, l'heure, le jour.                ⬛
+		                   ⬛ Mais vous précise qu'il n'y aura pas d'arbitre.                ⬛
+		                   ⬛                                                                ⬛
+		                   ⬛ Vous refusez (G)            ou            Vous acceptez (D)    ⬛
+		                   ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛

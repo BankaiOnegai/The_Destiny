@@ -1,0 +1,9 @@
+
+			⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+			⬜    Vous sonnez a l'interphone .			    ⬜  
+			⬜ L'accueil répond et vous refuse l'entrée car il est tard ⬜
+			⬜	Vous êtes donc sans solution		   	    ⬜
+			⬜							    ⬜
+			⬜	  veuillez recommencez l'algoritme		    ⬜
+			⬜							    ⬜
+			⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜

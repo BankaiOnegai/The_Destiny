@@ -1,0 +1,16 @@
+
+
+        
+
+
+                               ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+                               ⬛ Vous refusez.                                                                    ⬛
+                               ⬛                                                                                  ⬛
+                               ⬛ Rudy vous propose de regler vos comptes à la sortie de l'école.                  ⬛
+                               ⬛										   ⬛
+			       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+                               ⬛										   ⬛
+			       ⬛  Vous refusez (G)                 ou                Vous acceptez  (D)           ⬛                     
+                               ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+
+

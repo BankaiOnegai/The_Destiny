@@ -1,0 +1,3 @@
+Vous avez votre pass navigo mais l'abonnement est-il toujours valable
+L'abonnement est terminé OU L'abonnement est encore à jour
+

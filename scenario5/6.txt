@@ -1,0 +1,13 @@
+
+
+
+
+		                 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+		                 ⬛ Vous acceptez.                                                           ⬛
+		                 ⬛                                                                          ⬛
+		                 ⬛ Arrivé à la date, le jour, l'heure indiquée vous attendez Rudy.          ⬛
+		                 ⬛ Dix minutes plus tard, vous voyez Rudy venir avec deux amis à lui.       ⬛
+		                 ⬛ Pas très rassurant, ils vous encerclent, la porte est ouverte...         ⬛
+		                 ⬛                                                                          ⬛
+		                 ⬛   Vous fuyez (G)               ou            Vous restez (D)             ⬛
+		                 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
